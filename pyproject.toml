@@ -1,0 +1,14 @@
+[project]
+name = "SquareRoot2Py"
+version = "1.0.0"
+description = "sqrt(2)"
+readme = "README.md"
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Homepage = "https://github.com/tovicheung/SquareRoot2Py"
