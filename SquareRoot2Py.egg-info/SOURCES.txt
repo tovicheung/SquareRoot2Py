@@ -1,0 +1,8 @@
+LICENSE
+README.md
+SquareRoot2Py.py
+pyproject.toml
+SquareRoot2Py.egg-info/PKG-INFO
+SquareRoot2Py.egg-info/SOURCES.txt
+SquareRoot2Py.egg-info/dependency_links.txt
+SquareRoot2Py.egg-info/top_level.txt
