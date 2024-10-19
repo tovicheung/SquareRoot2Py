@@ -1,5 +1,6 @@
 # SquareRoot2Py
-for fun lol
+
+https://www.youtube.com/watch?v=ktRwfBMV4S8
 
 ```
 pip install SquareRoot2Py
