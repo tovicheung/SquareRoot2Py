@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "SquareRoot2Py"
-version = "2.0.1"
+version = "2.1.0"
 description = "sqrt(2)"
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -12,6 +12,8 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
+    "Development Status :: 5 - Production/Stable",
+    "Topic :: Scientific/Engineering :: Mathematics",
 ]
 
 [project.urls]
