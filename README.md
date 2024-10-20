@@ -19,7 +19,7 @@ pip install SquareRoot2Py
 
 ## Benchmark
 
-Our state-of-the-art algorithm computes the rounded value of the square root of 2 almost **2x faster** than the built-in C implementation.
+Our state-of-the-art algorithm computes the rounded value of the square root of 2 almost **twice as fast** than the built-in C implementation.
 
 #### Built-in C implementation
 
